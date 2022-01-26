@@ -21,7 +21,7 @@ import com.alexmoscato.tarefas.repository.repositoryTodo;
 
 @RestController
 @RequestMapping("/api/todos")
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://alex9044.github.io/")
 public class TodoController {
 	
 	@Autowired
